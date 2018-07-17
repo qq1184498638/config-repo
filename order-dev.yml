@@ -30,4 +30,8 @@ spring:
         multiplier: 1.0
 env:
   dev
+  
+girl:
+  name: liujia
+  age: 27
 
